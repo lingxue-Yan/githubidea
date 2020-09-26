@@ -8,8 +8,6 @@ package com.git;
 public class Test {
     public static void main(String[] args) {
         System.out.println("茄子：今天是一个好日子");
-        System.out.println("馒头：我刀");
-        System.out.println("茄子：WDNMD,馒老六你死定了");
-
+        System.out.println("馒头：今天依旧是当老六的好日子。。。看不见我！看不见我！看不见我！看不见我！");
     }
 }
